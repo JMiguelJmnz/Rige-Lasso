@@ -1,4 +1,4 @@
-# Rige-Lasso
+# Ridge-Lasso
 Analisis de regresion Ridge y Lasso que permita construir un modelo predictivo a una base de datos real de manera que puedas generar pronósticos adecuados.
 
 Considerando datos de consumo de combustible y emisiones de CO2, limpiamos los valores a utilizar con los modelos
